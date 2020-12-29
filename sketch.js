@@ -123,6 +123,8 @@ function draw() {
 	box14.display();
 	box15.display();
 	box16.display();
+	
+	text("Drag the Hexagonal stone and release it,launch it towards the blocks.", 100, 100);
 
 //---------------------------------------------------------------------
        //Building 2
