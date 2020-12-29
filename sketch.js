@@ -102,6 +102,7 @@ function setup() {
 function draw() {
   
 	background(0);
+		text("Drag the Hexagonal stone and release it,launch it towards the blocks.", 100, 100);
 	
         // Building 1
 	box1.display();
